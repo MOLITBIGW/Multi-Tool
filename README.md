@@ -1,6 +1,6 @@
-![image](https://github.com/user-attachments/assets/b02c0e77-9dad-4dbc-98d0-0c80ddd3790b)New Update
+![image](https://github.com/user-attachments/assets/b02c0e77-9dad-4dbc-98d0-0c80ddd3790b)
 
-20 Stars
+20 Stars For New Update
 
 
 
