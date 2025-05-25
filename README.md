@@ -11,20 +11,20 @@ A multi-functional toolkit for automation and testing with Telegram, Discord, an
 
 | ID  | Function                     | Description                                      |
 |-----|------------------------------|--------------------------------------------------|
-| 01  | Feather Account Grabber      | Grab basic account info for Feather app         |
-| 02  | Discord Nuker                | Automate destructive tasks in a Discord server  |
-| 03  | Telegram Bot Deletor         | Mass remove Telegram bots                       |
-| 04  | Telegram Bot Spammer         | Send spam messages through Telegram bots        |
-| 05  | Telegram Bot Validator       | Check if bots are online and functional         |
-| 06  | Discord Token Login          | Login using Discord tokens                      |
-| 07  | Discord Token Info           | Fetch info about a Discord token                |
-| 08  | Discord Token Grabber        | Collect tokens from local storage               |
-| 09  | Discord Webhook Spammer      | Spam messages through webhooks                  |
-| 10  | Discord Token Checker        | Check validity of Discord tokens                |
-| 11  | Roblox Cookie Login          | Authenticate using .ROBLOSECURITY cookies     |
-| 13  | Base64 Encode                | Encode strings to Base64                        |
-| 14  | Base64 Decode                | Decode Base64 strings                           |
-| 15  | IP Lookup                    | Fetch IP geolocation info                       |
+| 01  | Feather Account Grabber      | Grab account info for Feather                    |
+| 02  | Discord Nuker                | Discord Server Nuker                             |
+| 03  | Telegram Bot Deletor         | Mass remove Telegram bots                        |
+| 04  | Telegram Bot Spammer         | Send spam messages through Telegram bots         |
+| 05  | Telegram Bot Validator       | Check if bots are online and functional          |
+| 06  | Discord Token Login          | Login using Discord tokens                       |
+| 07  | Discord Token Info           | Fetch info about a Discord token                 |
+| 08  | Discord Token Grabber        | Collect tokens from local storage                |
+| 09  | Discord Webhook Spammer      | Spam messages through webhooks                   |
+| 10  | Discord Token Checker        | Check validity of Discord tokens                 |
+| 11  | Roblox Cookie Login          | Authenticate using .ROBLOSECURITY cookies        |
+| 13  | Base64 Encode                | Encode strings to Base64                         |
+| 14  | Base64 Decode                | Decode Base64 strings                            |
+| 15  | IP Lookup                    | Fetch IP geolocation info                        |
 
 ---
 
