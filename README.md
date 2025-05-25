@@ -32,7 +32,7 @@ A multi-functional toolkit for automation and testing with Telegram, Discord, an
 
 ### Prerequisites
 - Python 3.x
-- requests, base64, colorama, discord, and other dependencies as needed
+ - open setup.bat
 
 ⚠️ Disclaimer
 This tool is for educational and ethical testing purposes only.
