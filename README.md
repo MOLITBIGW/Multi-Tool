@@ -1,4 +1,4 @@
-# 🧰 All In One - Multi Tool by DevQueen__
+# 🧰 All In One - Multi Tool
 
 ![All In One](https://discord.gg/2mzUuwScaZ)
 
